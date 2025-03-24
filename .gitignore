@@ -1,0 +1,11 @@
+.env
+.venv/
+
+# Python bytecode files:
+# *.pyc - compiled Python files
+# *.pyo - optimized Python files
+# *.pyd - Python DLL files
+*.py[cod]
+
+__pycache__/
+*$py.class
